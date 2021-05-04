@@ -6,9 +6,6 @@
     $dia = (int)$diastring;
     $mes = (int)$messtring;
     $ano = (int)$anostring;
-    /*$dia = 12;
-    $mes = 9;
-    $ano = 2003;*/
     
     function somatorio($mes){
         $valor = $mes;
